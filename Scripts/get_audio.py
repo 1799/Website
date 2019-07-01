@@ -82,6 +82,7 @@ class Statistics:
 
 def create_json_file():
     global flag
+    counter = 0
     json_file = open('ultimate.json', 'r')
     data = json.loads(json_file.read())
     fopen = open(sys.argv[1] + '.txt')
@@ -103,8 +104,15 @@ def create_json_file():
             flag = True
             print("Word not found: " + line)
         for i in range(object_range):
+            counter = counter+1
             if(data[line][i].startswith('http://s3.amazonaws.com')):
                 fopen_json.write('\t' + '"' + line + '": "'  + data[line][i] + '"' + last_line_signal +'\n')
+                counter = 0
+                break
+            if(counter == object_range):
+                counter = 0
+                print("Word not found in Amazon: " + line)
+
     fopen_json.write('}\n')
     fopen_json.close()
     fopen.close()
