@@ -1,0 +1,76 @@
+head
+hair
+forehead
+eyebrow
+eye
+ear
+nose
+cheek
+mouth
+lip
+tooth
+tongue
+beard
+chin
+neck
+shoulder
+armpit
+chest
+arm
+hand
+finger
+thumb
+index finger
+middle finger
+ring finger
+little finger
+stomach
+belly button
+hip
+knee
+leg
+waist
+wrist
+ankle
+calf
+elbow
+foot
+back
+jaw
+bone
+moustache
+muscle
+skin
+throat
+bottom
+thigh
+toe
+brain
+heart
+nerve
+lung
+blood
+nipple
+spine
+toenail
+fingernail
+sweat
+face
+abdomen
+buttock
+palm
+nostril
+eyelid
+pupil
+heel
+windpipe
+esophagus
+liver
+vein
+artery
+kidney
+pancreas
+penis
+vagina
+big toe
+navel

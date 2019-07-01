@@ -1,0 +1,59 @@
+school
+classroom
+schoolyard
+hall
+library
+campus
+dormitory
+canteen
+laboratory
+infirmary
+flag
+principal
+janitor
+student
+lecturer
+classmate
+subject
+mathematics
+test
+history
+geography
+biology
+science
+physical education
+art
+music
+blackboard
+projector
+computer
+locker
+school bus
+bell
+clock
+loudspeaker
+textbook
+timetable
+uniform
+yearbook
+homework
+chalk
+eraser
+paper
+notebook
+desk
+brush
+pencil
+pencil sharpener
+pen
+ruler
+thumbtack
+map
+pencil case
+globe
+scissors
+chair
+backpack
+calculator
+ballpoint pen
+glue

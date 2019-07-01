@@ -1,0 +1,39 @@
+beanie
+sun hat
+trilby
+sombrero
+cowboy hat
+baseball cap
+mortarboard
+bowler hat
+beret
+top hat
+earmuff
+goggles
+sunglasses
+glasses
+scarf
+stole
+shawl
+satchel
+purse
+rucksack
+backpack
+knapsack
+wallet
+tote
+duffel bag
+handbag
+shoulder bag
+pouch
+suitcase
+mitten
+sweatband
+fan
+mitt
+glove
+handkerchief
+trinket
+bow tie
+tie
+belt

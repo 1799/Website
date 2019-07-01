@@ -155,7 +155,7 @@ def main(total_threads):
     for i in range(total_threads):
         worker = DownloadWorker(i + 1, data_segments[i], DIR_PATH, statistics)
         worker.start()
-    time.sleep(5)
+    time.sleep(10)
     copy_audio_file()
     delete_folder()
 
