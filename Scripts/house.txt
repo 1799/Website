@@ -1,0 +1,88 @@
+television
+remote control
+speaker
+sound system
+sofa
+armchair
+chair
+cushion
+table lamp
+telephone
+bookcase
+drape
+banister
+carpet
+clock
+ceiling
+picture
+fireplace
+window
+stove
+microwave
+toaster
+pressure cooker
+blender
+oven
+mixer
+kettle
+fridge
+exhaust hood
+coffee maker
+whisk
+spatula
+rolling pin
+knife
+cleaver
+scissors
+chopping board
+pot
+pan
+tablespoon
+teaspoon
+sieve
+plate
+mug
+ladle
+teapot
+cup
+glass
+fork
+chopstick
+bowl
+jug
+wineglass
+bathtub
+sink
+showerhead
+bath towel
+shampoo
+conditioner
+soap
+toothpaste
+toothbrush
+razor
+mouthwash
+mirror
+hairbrush
+hair dryer
+faucet
+comb
+hand towel
+bucket
+washing machine
+scrubbing brush
+plunger
+toilet paper
+toilet
+bed
+mattress
+blanket
+pillow
+sheet
+closet
+chest
+stool
+mirror
+bunk
+hanger
+dressing gown
