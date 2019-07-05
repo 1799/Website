@@ -1,0 +1,27 @@
+great grandparent
+great grandfather
+great grandmother
+grandparent
+grandfather
+grandmother
+great-uncle
+great-aunt
+father
+mother
+husband
+wife
+bridegroom
+bride
+uncle
+aunt
+brother
+sister
+brother-in-law
+sister-in-law
+son
+daughter
+grandson
+granddaughter
+nephew
+niece
+cousin
