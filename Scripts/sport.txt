@@ -1,0 +1,109 @@
+aerobics
+archery
+athletics
+badminton
+baseball
+basketball
+lawn bowling
+boxing
+climbing
+cricket
+cycling
+darts
+diving
+fishing
+football
+carting
+golf
+gymnastics
+handball
+hiking
+hockey
+horse racing
+hunting
+ice hockey
+ice skating
+roller skating
+jogging
+judo
+karate
+lacrosse
+martial art
+mountaineering
+pool
+rowing
+rugby
+running
+sailing
+scuba diving
+shooting
+skateboarding
+skiing
+snooker
+snowboarding
+squash
+surfing
+swimming
+table tennis
+bowling
+volleyball
+tennis
+walking
+water polo
+water-skiing
+weightlifting
+wrestling
+chess
+poker
+high jump
+hurdle
+long jump
+marathon
+pole vault
+shot put
+fencing
+play
+win
+lose
+draw
+watch
+game
+match
+competition
+score
+result
+winner
+loser
+opponent
+umpire
+spectator
+defeat
+boxing ring
+golf course
+gym
+ice rink
+racetrack
+squash court
+swimming pool
+tennis court
+stadium
+goalkeeper
+goal
+free kick
+fan
+foul
+club
+offside
+player
+referee
+supporter
+tackle
+ball
+racquet
+boxing glove
+hockey stick
+ice skate
+skateboard
+ski
+coach
+athlete
