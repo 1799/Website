@@ -1,0 +1,92 @@
+music
+song
+note
+playlist
+volume
+headphone
+instrument
+harmony
+melody
+string
+symphony
+overture
+voice
+solo
+lyric
+chorus
+album
+tune
+beat
+cassette
+cassette player
+cassette recorder
+choir
+compact disc
+concert
+national anthem
+duet
+recording studio
+speaker
+stage
+turntable
+microphone
+bass
+rhythm
+music stand
+sing
+play
+perform
+dance
+listen
+band
+musician
+conductor
+composer
+guitarist
+drummer
+audience
+bassist
+flautist
+orchestra
+organist
+pianist
+rapper
+saxophonist
+trumpeter
+violinist
+guitar
+mandolin
+banjo
+violin
+piano
+trombone
+harp
+xylophone
+cello
+organ
+ukulele
+accordion
+harmonica
+saxophone
+clarinet
+trumpet
+bagpipe
+flute
+tuba
+drum
+tambourine
+kettledrum
+conga
+gong
+triangle
+cymbal
+classical music
+country music
+dance music
+folk music
+hymn
+jazz
+rap
+pop
+rock
+opera

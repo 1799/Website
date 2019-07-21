@@ -1,0 +1,93 @@
+hospital
+psychiatric hospital
+field hospital
+military hospital
+nursing home
+infirmary
+emergency room
+operating room
+needle
+pharmacy
+hospital bed
+gurney
+crutch
+wheelchair
+paramedic
+stretcher
+treat
+recovery
+coma
+doctor
+nurse
+surgeon
+cardiologist
+dermatologist
+endocrinologist
+oncologist
+ophthalmologist
+pathologist
+obstetrician
+pediatrician
+radiologist
+dentist
+vet
+surgery
+neurosurgery
+cardiology
+dermatology
+epidemiology
+endocrinology
+gastroenterology
+geriatrics
+hematology
+gynecology
+neurology
+odontology
+ophthalmology
+orthopedics
+ill
+sick
+blood bank
+mortuary
+sickroom
+lung cancer
+cancer
+measles
+migraine
+headache
+smallpox
+mumps
+rheumatism
+variola
+cataract
+pneumonia
+albinism
+muscular dystrophy
+cerebral palsy
+cirrhosis
+cholera
+diphtheria
+glaucoma
+diabetes
+medicine
+drug
+stomachache
+cough
+bleeding
+blister
+depression
+eating disorder
+food poisoning
+fracture
+inflammation
+sore throat
+deaf
+pigmentation
+earache
+nausea
+sniffle
+tired
+hurt
+injure
+vomit
+sneeze

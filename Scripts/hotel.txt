@@ -1,0 +1,62 @@
+hotel
+motel
+guesthouse
+reception desk
+restaurant
+bar
+gym
+car park
+coffee shop
+sauna
+swimming pool
+beauty salon
+lobby
+corridor
+balcony
+laundry
+adjoining room
+suite
+smoking room
+single bed
+double bed
+queen-sized
+king-sized
+chambermaid
+receptionist
+bellman
+operator
+doorman
+book
+check in
+check out
+pay
+clean
+quiet
+noisy
+convenient
+vacancy
+luggage
+view
+elevator
+stairs
+credit card
+invoice
+keycard
+free of charge
+wake-up call
+furniture
+air conditioner
+bath
+shower
+pillow
+towel
+key
+blanket
+television
+door
+light
+telephone
+fridge
+heater
+wardrobe
+safe

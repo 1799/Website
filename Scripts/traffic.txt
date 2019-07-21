@@ -1,0 +1,114 @@
+car
+truck
+bus
+bicycle
+scooter
+motorbike
+train
+subway
+plane
+jet
+helicopter
+horse
+cruise ship
+boat
+ship
+cargo ship
+submarine
+rocket
+camel
+hot-air balloon
+sailboat
+drone
+van
+bullet train
+ferry
+speedboat
+rowing boat
+glider
+ambulance
+taxi
+buggy
+canoe
+chariot
+garbage truck
+golf cart
+hearse
+jeep
+kayak
+lifeboat
+oil tanker
+police car
+spaceship
+sledge
+space shuttle
+steamboat
+tank
+tanker
+warship
+wheelchair
+tractor
+yacht
+bend
+two-way
+one-way
+roundabout
+bump
+slow down
+slippery
+uneven
+crossroad
+speed limit
+dead end
+railway
+danger
+give way
+pedestrian crossing
+runway
+stop
+petrol station
+parking
+hospital
+school
+road
+traffic
+vehicle
+roadside
+ring road
+petrol station
+kerb
+pedestrian crossing
+turning
+fork
+toll
+hard shoulder
+one-way street
+roundabout
+accident
+breathalyser
+car park
+parking ticket
+driving licence
+driver
+passenger
+traffic light
+oil
+diesel
+petrol
+traffic jam
+road map
+garage
+bypass
+speed
+break
+accelerate
+slow down
+swerve
+highway
+bus station
+bus stop
+lane
+parking lot
+tunnel
+crossroads
+pass
