@@ -5,3 +5,88 @@ sanitizer
 bedside table
 tattooist
 barista
+medium
+height
+shoulder-length
+cornrow
+centre
+parting
+side
+high
+cheekbone
+thumb
+staffroom
+general hospital
+orthopedic
+isolation
+room
+inpatient
+department
+outpatient
+gown
+medical
+chart
+haemorrhoids
+eyes
+sore
+room service
+single room
+double room
+twin room
+triple
+cart
+internet
+access
+taiga
+natural disaster
+rainy
+celsius
+fahrenheit
+global warming
+deciduous
+forest
+gerbera
+moss
+water
+centella
+chia
+red
+mixed
+fruit
+american football
+beach volleyball
+canoeing
+horse riding
+motor racing
+windsurfing
+discus
+throw
+javelin
+long jump
+league table
+ground
+yellow card
+red card
+narrows
+horn
+overtaking
+u-turn
+t-junction
+crossing
+widen
+quayside
+car wash
+walkman
+lead singer
+french horn
+drum kit
+live
+R&B
+bobble hat
+earmuffs
+T-shirt
+jeans
+trousers
+high heels
+wellington
+no
