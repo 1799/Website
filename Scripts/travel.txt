@@ -8,7 +8,7 @@ abroad
 foreigner
 destination
 sunbathe
-arrival
+arrive
 departure
 delay
 return
