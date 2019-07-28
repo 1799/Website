@@ -1,0 +1,67 @@
+travel
+traveller
+excursion
+holiday
+adventure
+tour
+abroad
+foreigner
+destination
+sunbathe
+arrival
+departure
+delay
+return
+extend
+preparation
+travel agency
+plan
+itinerary
+book
+hire
+cancel
+cancellation
+confirm
+map
+route
+embassy
+visa
+insurance
+luggage
+change
+pack
+tourist
+ecotourism
+tour guide
+hot spot
+package tour
+high season
+cruise
+safari
+self-drive
+flight
+voyage
+relax
+souvenir
+journey
+trip
+ticket
+guidebook
+passport
+check in
+check out
+deposit
+campsite
+chalet
+hotel
+motel
+guesthouse
+caravan
+inn
+resort
+tent
+villa
+mountain
+beach
+seaside
+vacation

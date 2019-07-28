@@ -133,7 +133,7 @@ def main(total_threads):
     # create json file
     global flag
     flag = False
-    # create_json_file()
+    create_json_file()
     print(flag)
     if (flag == True):
         sys.exit()
