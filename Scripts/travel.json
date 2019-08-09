@@ -14,7 +14,7 @@
 	"delay": "http://s3.amazonaws.com/audio.vocabulary.com/1.0/us/D/ZYN1LYVKIYPE.mp3",
 	"return": "http://s3.amazonaws.com/audio.vocabulary.com/1.0/us/R/1C4BKIGJ7D824.mp3",
 	"extend": "http://s3.amazonaws.com/audio.vocabulary.com/1.0/us/E/1A5YF0WTVVSC.mp3",
-	"preparation": "http://s3.amazonaws.com/audio.vocabulary.com/1.0/us/P/1BAL6B4SR8BH5.mp3",
+	"prepare": "http://s3.amazonaws.com/audio.vocabulary.com/1.0/us/P/DKX9P1T2TTHV.mp3",
 	"travel agency": "http://s3.amazonaws.com/audio.vocabulary.com/1.0/us/T/1W71ZX468GIOJ.mp3",
 	"plan": "http://s3.amazonaws.com/audio.vocabulary.com/1.0/us/P/KSD5EKEKIWMJ.mp3",
 	"itinerary": "http://s3.amazonaws.com/audio.vocabulary.com/1.0/us/I/QAIUL4S613GC.mp3",

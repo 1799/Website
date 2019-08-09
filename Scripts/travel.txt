@@ -13,7 +13,7 @@ departure
 delay
 return
 extend
-preparation
+prepare
 travel agency
 plan
 itinerary
