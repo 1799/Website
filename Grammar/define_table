@@ -1,0 +1,7 @@
+111: title-> font 28, bold, alight center, color #37003C
+222: section -> font 24, bold, highlight, color #37003C
+331: - section -> font 18, color #333300
+332: - example -> 2 space, font 18, color #333300, italic
+441: + section -> 1 space, font 18, color #333300
+442: + example -> 3 space, font 18, color #333300, italic
+555: sub-section -> font 18, bold, highlight, color #37003C

@@ -1,0 +1,40 @@
+~Mạo từ A, An, The
+`1.Về mạo từ a/an:
+- Là các mạo từ không xác định
+- Đứng trước các danh từ với số lượng là một, được hiểu là một.
+- Được dùng trong một mệnh đề khái quát hoặc dùng để giới thiệu một đối tượng
+  I have a house in hometown (Tôi có 1 căn nhà ở quê)
+- A: đứng trước các danh từ bắt đầu bằng phụ âm (theo cách đọc chứ k phải cách viết): a pen, a house, a book,...
+ + Một số danh từ có nguyên âm đầu theo cách viết nhưng đọc theo kiểu phụ âm vì thế dùng với: a university, a uniform, a European
+- An: đứng trước danh từ bắt đầu bằng nguyên âm (theo cách đọc chứ không phải cách viết): an accident, an apple, an orange, ...
+ + Một số danh từ bắt đầu bằng phụ âm theo cách viết nhưng lại đọc theo kiểu nguyên âm, vì thế sử dụng an: an hour, an heir, ...
+- Chú ý: với các cụm danh từ thì a/an được chia theo từ đi sau nó, chứ không phải dựa theo danh từ (a green apple, an yellow dog, ...)
+- Các trường hợp không dùng mạo từ a/an:
+ + Trước các danh từ số nhiều, thay vì dùng a/an, ta sẽ dùng các mạo từ chỉ số nhiều khác như some, many, serveral, ...
+    I have some books on that table (Tôi có một số cuốn sách trên cái bàn đó)
+ + Trước các danh từ không đếm được
+    He drink water after lunch (Cậu ấy uống nước sau bữa ăn)
+ + Trước các bữa ăn
+    We have breakfast at 7 o'clock every morning (Chúng tôi ăn sáng vào 7 giờ mỗi buổi sáng)
+---
+`2. Về mạo từ The:
+- Là mạo từ xác định
+- Dùng để chỉ các sự vật, hiện tượng đã biết hoặc các kiến thức chung
+- Các trường hợp dùng mạo từ The:
+ + Các đại dương, dãy núi, sông, vịnh, biển, sa mạc, hệ thống hồ (The Pacific, The East Sea, The Andes, The Himalayas, ...)
+ + Trái đất, mặt trăng, mặt trời (the Earth, the Moon, the Sun)
+ + Các số đếm hoặc các danh từ dùng số đếm (the first, the second, the third book, the last one, ...)
+ + Các nước gồm nhiều phần lãnh thổ, tiểu bang (ngoại trừ Great Britain) (The United States, The Philippines, The United Kingdom, ...)
+ + Các dân tộc (The Indians, the Aztecs, ...)
+- Các trường hợp không dùng mạo từ The:
+ + Các ngọn núihoặc hồ nước riêng lẻ đơn lẻ (Mount Kinabalu, Mount Everest,
+ + Các hành tinh và vệ tinh (Mars, Venus, Orion, ...)
+ + Các đất nước bắt đầu bằng New hoặc tính từ chỉ phương hướng (New Zealand, North Korea, South Afica, ...)
+ + Các đất nước chỉ gồm 1 từ (Vietnam, Frank, England, ...)
+ + Các châu lục (Asia, Europe, America, ...)
+ + Các tiểu bang (Ohio, Florida, California, ...)
+ + Các môn thể thao (football, basketball, gofl, ...)
+ + Các danh từ trừu tượng (hope, happiness, freedom, ...)
+ + Các ngành khoa học phổ biến (mathematics, science, ...)
+ + Các ngày lễ (Thanksgiving, Christmas, ... )
+---
