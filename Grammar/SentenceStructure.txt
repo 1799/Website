@@ -1,0 +1,43 @@
+~Cấu trúc câu cơ bản
+!Cấu trúc câu thông thường trong Tiếng Anh bao gồm:
+- Chủ ngữ + Động từ + Tân Ngữ + Phần bổ trợ
+- (Subject + Verb + Complement + Modifier)
+  I did my homework last night
+---
+`1.Chủ ngữ:
+- Là đối tượng thực hiện hành động
+- Là thành phần bắt buộc có trong câu của tiếng Anh
+- Thường đứng trước động từ, có thể là một danh từ đơn:
+  Cats gather around the table
+- Hoặc có thể là một cụm danh từ:
+  Many customers are waiting in front of cloth shop for sale time.
+- Trong một số trường hợp dùng there ở đầu câu, there được xem như là một chủ ngữ giả, bổ nghĩa.
+  There is a mouse in the chicken.
+  Ở đây mouse là chủ ngữ chính, there đóng vai trò như một chủ ngữ giả.
+---
+`2.Động từ:
+- Là thành phần thường đúng sau chủ ngữ
+- Đóng vai trò hành động, biểu hiện của chủ ngữ
+- Là thành phần bắt buộc trong câu
+- Động từ có thể là một động từ đơn hoặc cụm động từ:
+  She goes to school every day. (Cô ấy đi học hàng ngày)
+  She is going to school. (Cô ấy đang đi học).
+- Tuỳ thuộc vào chủ ngữ, ngữ cảnh, thì, dạng câu mà động từ có thể ở các dạng khác nhau, sẽ được đề cập trong các topic khác
+  There are many trees in the garden
+  There is a apple tree in the garden
+  Ở đây động từ to be được chia thành thành 2 dạng are cho số nhiều và is cho số ít.
+---
+`3.Tân ngữ:
+- Là thành phận bị tác động bởi hành động trong câu
+- Là thành phần không bắt buộc
+- Không đi cùng giới từ trong câu (in, at, on, ...)
+  John met Mary yesterday. (John đã gặp Mary ngày hôm qua)
+---
+`4.Bổ ngữ:
+- Bổ sung các thông tin khác cho câu
+- Thông thường nói về thời gian, địa điểm, đặc tính của hành động, hoặc mức độ thường xuyên,..
+- Thường đi cùng với giới từ
+- Là thành phần không bắt buộc trong câu
+- Bổ ngữ về thời gian sẽ đứng cuối cùng nếu trước đó đã có một một bổ ngữ khác.
+  He sings at hotel every weekends
+---

@@ -1,0 +1,218 @@
+~Các thì trong tiếng Anh
+`1.Thì hiện tại đơn:
+!Cấu trúc câu:
+- Với các động từ thông thường
+ + Khẳng định: Subject + Verb (s/es) + Object
+ + Phủ định:      Subject + do/does + not + Verb + Object
+ + Nghi vấn:      (Wh) + do/does + Subject + Verb + Object
+- Với động từ to-be:
+ + Khẳng định: Subject + is/am/are + Noun/Adjective
+ + Phủ định:      Subject + is/am/are + not + Noun/Adjective
+ + Nghi vấn:      (Wh) + is/am/are + Subject + Noun/Adjective
+!Cách sử dụng:
+- Miêu tả hành động lặp đi lặp lại hoặc một thói quen
+  They watch television every evening after dinner (Họ xem ti vi mỗi tối sau khi ăn)
+- Miêu tả trạng thái hoặc khả năng hiện tại
+  He plays football very well (Cậu ấy chơi bóng đá rất hay)
+- Miêu tả một sự thật hiển nhiên
+  Moon goes around Eartch
+- Miêu tả lịch trình, kế hoạch đã được định sẵn
+  Train leaves station at 6 AM (Tàu rời bến lúc 6 giờ sáng)
+!Dấu hiệu nhận biết:
+- Trong câu có các từ mô tả sự thường xuyên, lặp đi lặp lại (usually, ofter, sometimes, every, never, ...)
+- Trong câu mô tả số lần thực hiện (once, twice, three times,..)
+!Một số nguyên tắc sử dụng:
+- Quy tắc thêm s/es:
+ + S/es được thêm vào sau động từ trong thì hiện tại đơn khi chủ ngữ là He, She, It và các danh từ số ít khác.
+ + Thêm es khi các động từ kết thúc với x, ch, z, s, sh, o (watches, goes, ...)
+ + Nếu động từ kết thúc với y mà trước đó là phụ âm, ta đổi y -> i sau đó thêm es (study -> studies)
+ + Các trường hợp còn lại ta sẽ thêm s (play -> plays, run -> runs, ....)
+---
+`2.Thì hiện tại tiếp diễn (Present continous tense):
+!Cấu trúc câu:
+ + Khẳng định: Subject + is/am/are + Verb-ing + Object
+ + Phủ định:      Subject + is/am/are + not + Verb-ing + Object
+ + Nghi vấn:      (Wh) + is/am/are + Subject + Verb-ing + Object
+!Cách sử dụng:
+- Miêu tả hành động được thực hiện tại thời điểm hiện tại
+  They are eating together (Họ đang ăn cùng nhau)
+- Miêu tả một hành động trong tương lai đã được lên kế hoạch trước
+  We are going on holiday tomorrow (Chúng tôi sẽ đi nghỉ vào ngày mai)
+- Mô tả hoặc nhấn mạnh một chuỗi hành động lặp đi lặp lại theo ý phàn nàn, trách móc (thường dùng với always, forever, constantly )
+  She is always getting up late.
+!Dấu hiệu nhận biết:
+- Trong câu có các từ mô tả thời điểm hiện tại như now, at the moment, currently, at the present,...
+- Phía trước đó là câu mệnh lệnh, cảm thán (Look!, Oh no!, ...)
+!Một số lưu ý:
+- Thường không dùng thì hiện tại tiếp diễn với các động từ sau:
+ + Động từ cảm nhận: hear, smell, taste, see, feel
+ + Động từ cảm xúc: fear, hate, like, love, ...
+ + Động từ biêủ thị cách nhìn: believe, consider, assume, ...
+ + Động từ biểu thị sự hiểu biết: know, understand, understand, mean, ...
+ + Động từ đo lường: measure, cost, contain, ...
+---
+`3.Thì hiện tại hoàn thành (Present perfect tense):
+!Cấu trúc câu:
+ + Khẳng định: Subject + have/has + Verb past participle + Object
+ + Phủ định:      Subject + have/has + not + Verb past participle + Object
+ + Nghi vấn:      (Wh) + have/has + Subject + Verb past participle + Object
+!Cách sử dụng:
+- Miêu tả hành động  bắt đầu trong quá khứ và vẫn còn tiếp diễn ở hiện tại.
+  I have been in Vietnam since 2000 (Tôi đã ở Việt Nam từ năm 2000)
+- Miêu tả một hành động vừa mới xảy ra
+  I have just buy this bag with only 30$ (Tôi vừa mua cái túi này với giá chỉ 30$)
+- Mô tả hành động diễn ra trong quá khứ, không rõ thời điểm nhưng có hảnh hưởng đến hiện tại
+  I have lost my phone (Tôi đã làm mất chiếc điện thoại của mình)
+- Miêu tả hành động lặp đi lặp lại trong một khoản thời gian không xác định giữa quá khứ và hiện tại.
+  Thay have visited Thailand many times
+!Dấu hiệu nhận biết:
+- Trong câu thì hiện tại hoàn thành thường có 1 trong các từ sau:
+ + Already: rồi
+ + Just, recently, lately: vừa mới
+ + Yet: chưa
+ + So far, ulti now, up to now, up to present: cho tới bây giờ
+ + Since + mốc thời gian: từ (since 2000, since September, ...)
+ + For + khoảng thời gian: trong (for 2 years, for a month, ...)
+---
+`4.Thì hiện tại hoàn thành tiếp diễn (Present perfect continous tense):
+!Cấu trúc câu:
+ + Khẳng định: Subject + have/has + been +Verb-ing + Object
+ + Phủ định:     Subject + have/has + not + been + Verb-ing + Object
+ + Nghi vấn:     (Wh) + have/has + Subject + been + Verb-ing + Object
+!Cách sử dụng:
+- Miêu tả hành động  bắt đầu trong quá khứ và vẫn còn tiếp diễn ở hiện tại nhưng có ý nhấn mạnh vào sự tiếp diễn trong hiện tại
+  I have been waiting here for an hour (Tôi đã phải chờ ở đây cả tiếng)
+!Dấu hiệu nhận biết:
+- Trong câu thì hiện tại hoàn thành thường có 1 trong các từ sau:
+ + Since + mốc thời gian: từ (since 2000, since September, ...)
+ + For + khoảng thời gian: trong (for 2 years, for a month, ...)
+ + All + danh từ thời gian (all day, all week
+---
+`5.Thì quá khứ đơn (Simple past tense):
+!Cấu trúc câu:
+- Với động từ thường:
+ + Khẳng định: Subject + Verb past + Object
+ + Phủ định:      Subject + did + not + Verb infinitive + Object
+ + Nghi vấn:      (Wh) + did + Subject + Verb infinitive + Object
+- Với động từ to-be:
+ + Khẳng định: Subject + was/were + Noun/Adjective
+ + Phủ định:      Subject + was/were + not + Noun/Adjective
+ + Nghi vấn:      (Wh) + was/were + Subject + Noun/Adjective
+!Cách sử dụng:
+- Miêu tả hành động bắt đầu và kết thúc trong quá khứ
+  He left school 3 years ago (Cậu ấy rời khỏi trường học 3 năm trước)
+- Miêu tả hành động chen ngang một hành động khác trong quá khứ.
+  When I was sleeping, thief entered my house (Khi tôi đang ngủ, tên trộm đã đột nhập vào nhà)
+!Dấu hiệu nhận biết:
+- Trong câu có các từ miêu tả thời gian trong quá khứ như yesterday, last year, last night, an hour ago, ...
+!Một số lưu ý khi sử dụng:
+- Các chia động từ to-be:
+ + was: khi chủ ngữ là I, He, She, It và các danh từ số ít
+ + Were: khi chủ ngữ là we, they, you và các danh từ số nhiều
+- Các động từ thông thường sẽ được thêm ed vào cuối động từ, ngoài ra sẽ có các động từ bất quy tắc, các bạn có thể xem thêm ở
+- Cách thêm ed vào sau các động từ thường:
+ + Thông thường các động từ sẽ được thêm ed ở thể quá khứ (watched, visited)
+ + Với các động từ kết thúc bằng e -> ta chỉ thêm d (agreed, typed)
+ + Với các động từ một âm tiết, kết thúc là 1 phụ âm, đứng trước là 1 nguyên âm -> ta gấp đôi phụ âm cuối rồi thêm ed (stopped, skipped, planned, fitted)
+ + Với động từ kết thúc bằng y, và trước y là một nguyên âm -> ta thêm ed bình thường (played)
+ + Với động từ kết thúc bằng y, và trước y là một phụ âm -> ta chuyển y thành i rồi thêm ed (studied)
+---
+`6.Thì quá khứ tiếp diễn (Past continous tense):
+!Cấu trúc câu:
+ + Khẳng định: Subject + was/were +V-ing + Object
+ + Phủ định:      Subject + was/were + not + V-ing + Object
+ + Nghi vấn:      (Wh) + was/were + Subject + V-ing + Object
+!Cách sử dụng:
+- Miêu tả hành động đang diễn ra tại một thời điểm xác định trong quá khứ
+  At 8 o'clock this morning, I was reading book in library
+- Miêu tả hành động đang xảy ra trong quá khứ thì bị chen ngang bởi một hành động khác.
+  When I was sleeping, thief entered my house (Khi tôi đang ngủ, tên trộm đã đột nhập vào nhà)
+!Dấu hiệu nhận biết:
+- Trong câu có ghi rõ một thời điểm cụ thể trong quá khứ (at 10:00 )
+---
+`7.Thì quá khứ hoàn thành (Past perfect tense):
+!Cấu trúc câu:
+ + Khẳng định: Subject + had +Verb past participle + Object
+ + Phủ định:      Subject + had + not + Verb past participle  + Object
+ + Nghi vấn:      (Wh) + had + Subject + Verb past participle + Object
+!Cách sử dụng:
+- Miêu tả hành động hoàn thành trước một hành động khác trong quá khứ
+  The train had just left when I arrived at the station.
+!Dấu hiệu nhận biết:
+- Thì quá khứ hoàn thành thường được dùng trong câu có 2 hành động diễn ra trước sau nên thường có các từ:
+ + When/ by the time: khi/vào thời điểm
+   By the time I started my exam, He had finished it already (Vào thời điểm tôi bắt đầu làm bài kiểm tra, cậu ấy đã làm xong rồi)
+ + Before/After:
+   I had gone out before they came. (Tôi đã đi ra ngoài trước khi họ đến)
+ + Just: vừa mới
+   She had just finish her task when boss asked. (Cô ấy vừa kịp hoàn thành công việc khi ông chủ hỏi)
+---
+`8.Thì quá khứ hoàn thành tiếp diễn (Past perfect continous tense):
+!Cấu trúc câu:
+ + Khẳng định: Subject + had + been +Verb-ing + Object
+ + Phủ định:       Subject + had + not + been + Verb-ing + Object
+ + Nghi vấn:       (Wh) + had + Subject + been + Verb-ing + Object
+!Cách sử dụng:
+- Miêu tả hành động đang diễn ra trước một hành động, hoặc một thời điểm trong quá khứ
+  I had been waiting at cinema before you came. (Tôi đã ngồi chờ tại rạp chiếu phim trước khi bạn tới).
+  He had been talking with fiends for an hour before 10 pm last night. (Cậu ấy đã nói chuyện với bạn bè suốt một tiếng vào trước 10 giờ tối qua).
+!Dấu hiệu nhận biết:
+- Trong câu có các từ: before, after, by the time, until then, prior to that time.
+  He had been thinking about of taking a trip by the time he finished course (Cậu ấy đã suy nghĩ về việc có một kỳ nghĩ vào thời điểm kết thúc khoá học).
+---
+`9.Thì tương lai đơn (Simple future):
+!Cấu trúc câu:
+ + Khẳng định: Subject + shall/will +Verb infinitive + Object
+ + Phủ định:      Subject + shall/will + not + Verb infinitive + Object
+ + Nghi vấn:      (Wh) + shall/will + Subject + Verb infinitive + Object
+`Cách sử dụng:
+- Diễn tả một dự đoán trong tương lại
+  I will rain tonight (Trời sẽ mưa vào tối nay).
+- Diễn tả một dự định trong tương lai nhưng chưa có kế hoạch cụ thể hoặc dự định bộc phát khi nói
+  I will become a doctor someday (Tôi sẽ trở thành một bác sĩ vào ngày nào đó).
+- Khi đưa ra một quyết định tức thời (thường dùng với I, we)
+  I'll pay for that bill (tôi sẽ trả tiền cho hoá đơn đó)
+!Dấu hiệu nhận biết:
+- Trong câu có các từ chỉ đến thời điểm trong tương lai (tonight, tomorrow, next week, next year, ...)
+!Một số lưu ý khi sử dụng:
+- Cách sử dụng shall/will
+ + Will: thường được dùng phổ biến và được áp dụng cho mọi ngôi trong thì tương lai đơn.
+ + Shall: thường được dùng với ngôi I, we dùng để đưa ra một lời mời, một đề suất hoặc hỏi một sự khuyên bảo từ người đối diện
+---
+`10.Thì tương lai tiếp diễn (Future continous tense):
+!Cấu trúc câu:
+ + Khẳng định: Subject + shall/will + be +Verb-ing + Object
+ + Phủ định:      Subject + shall/will + not + be +Verb-ing + Object
+ + Nghi vấn:      (Wh) + shall/will + Subject + be +Verb-ing + Object
+!Cách sử dụng:
+- Diễn tả một hành động diễn ra vào một thời điểm xác định trong tương lai.
+  I will be going shopping at this time tomorrow (Tôi sẽ đi mua sắm vào giờ này ngày mai)
+- Diễn tả một hành động có thể đang xảy ra trong tương lai khi có một hành động khác
+  I guess he will be waiting at home when I come tomorrow (Tôi đoán cậu ấy sẽ đang chờ tôi ở nhà khi tôi đến vào ngày mai)
+!Dấu hiệu nhận biết:
+- Trong câu có các từ chỉ thời điểm cụ thể trong tương lai:
+ + At this time/At this moment + thời gian tương lai: tại thời điểm này trong tương lai.
+ + Một mốc thời gian tương lai cụ thể (at 10 o'clock tomorrow, ...)
+`11.Thì tương lai hoàn thành (Future perfect tense):
+!Cấu trúc câu:
+ + Khẳng định: Subject + shall/will + have +Verb past pariciple + Object
+ + Phủ định:      Subject + shall/will + not + have +Verb past pariciple + Object
+ + Nghi vấn:      (Wh) + shall/will + Subject + have +Verb past pariciple + Object
+!Cách sử dụng:
+- Diễn tả một hành động sẽ được hoàn thành trong tương lai trước một thời điểm hoặc một hành động khác
+  I will have finished this tast by 10 o'clock tomorrow (Tôi sẽ hoàn thành nhiệm vụ này trước 10 giờ này mai)
+  She will have visited his sister before she return home at September. (Cô ấy sẽ đi thăm chị gái trước khi về nhà vào tháng 9).
+!Dấu hiệu nhận biết:
+- Trong câu có các từ by/before/by the end of + thời gian trong tương lai.
+---
+`12.Thì tương lai hoàn thành tiếp diễn (Future perfect continous tense):
+!Cấu trúc câu:
+ + Khẳng định: Subject + shall/will + have been +Verb-ing + Object
+ + Phủ định:      Subject + shall/will + not + have been +Verb-ing + Object
+ + Nghi vấn:      (Wh) + shall/will + Subject + have been +Verb-ing + Object
+!Cách sử dụng:
+- Diễn tả một hành động chưa kết thúc vào thời điểm hiện tại mà có thể kết thúc vào một thời điểm trong tương lai.
+  By the end of this month, I will have been living in Vietnam for 3 years (Vào cuối tháng này, tôi đã sống ở Việt Nam trong 3 năm)
+!Dấu hiệu nhận biết:
+- Trong câu có các từ by/before + mốc thời gian trong tương lai, sau đó là for + khoảng thời gian .
+---

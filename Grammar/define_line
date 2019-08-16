@@ -1,7 +1,8 @@
-111: title-> font 28, bold, alight center, color #37003C
-222: section -> font 24, bold, highlight, color #37003C
-331: - section -> font 18, color #333300
-332: - example -> 2 space, font 18, color #333300, italic
-441: + section -> 1 space, font 18, color #333300
-442: + example -> 3 space, font 18, color #333300, italic
-555: sub-section -> font 18, bold, highlight, color #37003C
+~: title-> font 28, bold, alight center, color #3F1052
+`: section -> font 24, bold, highlight, color #3F1052
+!: sub-section -> font 18, bold, highlight, color #37003C
+@: one line border -> font 18, bold, color #FF0000, alight center 
+- : - section -> font 18, color #3F1052
+  : - example -> 2 space, font 18, color #3F1052, italic
+ + : + section -> 1 space, font 18, color #3F1052
+   : + example -> 3 space, font 18, color #3F1052, italic
