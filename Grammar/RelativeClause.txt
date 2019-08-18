@@ -1,0 +1,64 @@
+~Mệnh đề quan hệ
+`1. Các loại mệnh đề quan hệ
+!a. Mệnh đề quan hệ xác định
+- Dùng để xác định danh từ đứng trước nó, các danh từ này thường chưa xác định
+- Là mệnh đề bắt buộc phải có vì nó bổ nghĩa cho danh từ, nếu không có nó danh từ sẽ tối người, khiến người đọc khó hiểu được hết nội dung, ý nghĩa của câu
+- Thường không dùng dấu phẩy (,) để ngăn cách với mệnh đề chính
+!b. Mệnh đề quan hệ không xác định
+- Dùng để bỏ sung ý nghĩa, cung cấp thêm thông tin cho danh từ đã xác định đứng trước
+- Là mệnh đề không bắt buộc có vì đối tượng đã được xác định
+- Thường dùng dấu phẩy (,) hoặc dấu (-) để ngăn cách với mệnh đề chính
+`2. Các dạng mệnh đề quan hệ
+!a. Kết hợp với đại từ quan hệ
+- Với Who:
+ + Who được làm chủ ngữ trong mệnh đề quan hệ
+ + Dùng để thay thế người, nhóm người
+- Với Whom:
+ + Whom được làm tân ngữ trong mệnh đề qua hệ
+ + Dùng để thay thế người, nhóm người
+- Với Which:
+ + Which có thể làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ
+ + Dùng để thay thế vật, hiện tượng
+- Với That:
+ + That có thể làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ thay thế cho who, whom, which
+ + Dùng để thay thế cho người, vật, hiện tượng
+- Các trường hợp thường dùng That:
+ + Khi đi sau hình thức so sánh nhất
+ + Khi đi sau các từ only, the first, the last
+ + Khi được dùng thay thế cả cụm người và vật
+ + Khi đi sau các đại từ bất định, đại từ phủ định, đại từ số lượng: no one, all, little, none, ...
+- Các trường hợp không dùng That:
+ + Trong mệnh đề quan hệ không xác định
+ + Sau giới từ
+!b. Kết hợp với trạng từ quan hệ
+- Với Where:
+ + Có thể làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ
+ + Thay thế từ chỉ nơi chốn
+- Với Why:
+ + Why dùng làm chủ ngữ trong mệnh đề quan hệ
+ + Dùng để chỉ lý do, nguyên nhân
+- Với When:
+ + When có thể làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ
+ + Thay thế từ chỉ thời gian, thời điểm
+`3. Một số lưu ý khi sử dụng mệnh đề quan hệ
+- Nếu trong mệnh đề quan hệ có giới từ thì giới từ có thể đặt trước hoặc sau mệnh đề quan hệ
+- Which có thể được dùng thay thế cho cả mệnh đề phía trước
+- Who có thể thay chỏ whom ở vị trí tân ngữ
+- Có thể loại bỏ Whom, Which làm tân ngữ trong mệnh đề xác định
+- Có thể dùng các nhóm từ both of, all of, none of,... có thể dùng trước cụm who, which, whose
+`4. Một số cách rút gọn mệnh đề quan hệ
+- Loại bỏ đại từ quan hệ
+ + Có thể loại bỏ các đại từ quan hệ who, which, whom,... khi chúng làm tân ngữ và phía trước không có dấu phẩy, không có giới từ
+- Rút gọn dùng cụm V_ing:
+ + Được dùng cho mệnh đề chủ động
+- Rút gọn dùng cụm V_past_participle
+ + Được dùng cho mệnh đề bị động
+- Rút gọn dùng cụng to + Verb_infinitive:
+ + Được dùng khi trong mệnh đề có only, last và số đếm first, second,...
+ + Khi đầu câu có here, there
+ + Khi động từ là have/had
+ + Khi chủ ngữ của 2 mệnh đề khác nhau thì có thể thêm cụm từ for + Subject trước to Verb_infinitive:
+ + Nếu trước đại từ quan hệ có giới từ thì phải đem giới từ về cuối câu
+- Rút gọn khi có cụm danh từ
+ + Được dùng khi mệnh đề quan hệ có sử dụng động từ to be đi kèm với danh từ, cụm danh từ.
+ + Có thể bỏ được các đại từ quan hệ và động từ to be đi cùng với chúng
