@@ -2,6 +2,7 @@
 `1. Định nghĩa
 - Là một dạnh khác của động từ bằng cách thêm đuôi -ing vào cuối động từ
 - Biểu thị hành động như một kiểu danh từ dùng trong câu
+---
 `2. Vị trí và các sử dụng danh động từ trong câu
 - Làm chủ ngữ của câu
   Running is a way to improve health (Chạy bộ là một cách để cải thiện sức khoẻ)
@@ -16,3 +17,4 @@
 - Đứng sau một số cụm từ đặc biệt: can't help, can't stand, to be worth, it's no use
   It's not worth fighting to get that prize (Thật không đáng đánh nhau để đạt được giải thưởng đó)
 - Một số động từ mà động từ đi sau nó phải thêm V_ing: use table
+---

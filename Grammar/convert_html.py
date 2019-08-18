@@ -15,6 +15,7 @@ RED_COLOR = '#FF0000'
 TITLE_FONT_SIZE = '30px'
 SECTION_FONT_SIZE = '24px'
 TEXT_FONT_SIZE = '18px'
+HL_FONT_SIZE = '20px'
 BOLD_BEGIN = '<strong>'
 BOLD_END = '</strong>'
 HIGHLIGHT_BEGIN = '<u>'
@@ -52,9 +53,9 @@ def open_file():
                             + BOLD_BEGIN + HIGHLIGHT_BEGIN + line[1:] \
                             + HIGHLIGHT_END + BOLD_END + '</span>')
         elif line.startswith('@'):
-            fopen_json.write('<br>' + '<span style="font-size: ' + SECTION_FONT_SIZE \
+            fopen_json.write('<br>' + '<span style="font-size: ' + HL_FONT_SIZE \
                             + '; color: ' + RED_COLOR + ';">' \
-                            + '&nbsp;&nbsp;&nbsp;&nbsp;' + line[1:]  + '</span>')
+                            + '&nbsp;&nbsp;&nbsp;&nbsp;' + BOLD_BEGIN + line[1:] + BOLD_END + '</span>')
         elif line.startswith('- '):
             check = check_character(':', line)
             if check == -1:
@@ -68,10 +69,12 @@ def open_file():
             check = check_character(':', line)
             if check == -1:
                 fopen_json.write('<br>' + '<span style="font-size: ' + TEXT_FONT_SIZE \
-                                + '; color: ' + TEXT_COLOR + ';">' + '&nbsp;&nbsp;' + BOLD_BEGIN + '&#10146;' + line[2:] + BOLD_END + '</span>')
+                                + '; color: ' + TEXT_COLOR + ';">' + '&nbsp;&nbsp;' \
+                                + BOLD_BEGIN + '&#10146;' + line[2:] + BOLD_END + '</span>')
             else:
                 fopen_json.write('<br>' + '<span style="font-size: ' + TEXT_FONT_SIZE \
-                                + '; color: ' + TEXT_COLOR + ';">' + '&nbsp;&nbsp;' + BOLD_BEGIN + '&#10146;' + line[2:check] + BOLD_END + line[check:] + '</span>')
+                                + '; color: ' + TEXT_COLOR + ';">' + '&nbsp;&nbsp;' \
+                                + BOLD_BEGIN + '&#10146;' + line[2:check] + BOLD_END + line[check:] + '</span>')
 
         elif line.startswith('   '):
             fopen_json.write('<br>' + '<span style="font-size: ' + TEXT_FONT_SIZE \

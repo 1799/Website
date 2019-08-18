@@ -1,8 +1,10 @@
 ~Các lại so sánh trong tiếng anh
 `1. So sánh bằng:
 !Cấu trúc:
-- Khẳng định: Subject + Verb + as + adj/adv + as + Noun/Pronoun
-- Phủ định : Subject + Verb + not + as/so + adj/adv + as + Noun/Pronoun
+- Khẳng định:
+@Subject + Verb + as + adj/adv + as + Noun/Pronoun
+- Phủ định :
+@Subject + Verb + not + as/so + adj/adv + as + Noun/Pronoun
   She is as beautiful as her sister (Cô ấy đẹp như chị cô ấy)
   Andy plays as well as his friend (Andy chơi tốt như bạn anh ấy)
 !Cách dùng:
@@ -13,15 +15,17 @@
 `2. So sánh hơn kém:
 !a.So sánh hơn:
 !Cấu trúc:
-- Với tính từ ngắn: Subject 1 + to be + adj +er + than + Subject 2
-- Với tính từ dài : Subject 1 + to be + more + adj + than + Subject 2
+- Với tính từ ngắn:
+@Subject 1 + be + adj_er + than + Subject 2
+- Với tính từ dài :
+@Subject 1 + be + more + adj + than + Subject 2
 !Cách dùng:
 - Dùng để so sanh hơn
 - Đối với các tính từ tận cùng bằng 'y, ow, er' ta vẫn coi là tính từ ngắn
 - Với các tính từ kết thúc bằng y thì ta chuyển y->i rồi mới thêm er
 !b. So sánh kém:
 !Cấu trúc:
-- Subject 1 + to be + more + adj + than + Subject 2
+@Subject 1 + be + more + adj + than + Subject 2
 !Cách dùng:
 - Dùng để so sánh kém
 - Sau than nếu là đại từ nhân xưng thì phải được chia ở dạng chủ ngữ, không được là tân ngữ
@@ -31,8 +35,10 @@
 ---
 `3. So sánh nhất:
 !Cấu trúc:
-- Với tính từ/trạng từ ngắn: Subject 1 + to be + the + adj + est + Rest of sentence
-- Với tính từ/trạng từ dài : Subject 1 + to be + the + most + adj +  + Rest of sentence
+- Với tính từ/trạng từ ngắn:
+@Subject 1 + be + the + adj_est + Rest of sentence
+- Với tính từ/trạng từ dài :
+@Subject 1 + be + the + most + adj + Rest of sentence
 !Cách dùng:
 - Dùng để chỉ sự so sánh nhất về một đặt tính của người vật so với phần còn lại
 - Mội số tính từ/trạng từ bất quy tắc trong so sánh hơn và nhất (không tuân theo quy luật thêm er/est trong so sánh)
@@ -52,17 +58,21 @@
 `4. So sánh kép:
 !a. So sánh chiều hướng phát triển
 !Cấu trúc:
-- Với tính từ/trạng từ ngắn: Subject 1 + verb + adj/adv + er + adj/adv + er
+- Với tính từ/trạng từ ngắn:
+@Subject + Verb + adj/adv_er + adj/adv + er
   He is getting fatter and fatter (Cậu ấy ngày càng béo hơn)
-- Với tính từ/trạng từ dài : Subject 1 + verb + more and more + adj/adv
+- Với tính từ/trạng từ dài :
+@Subject + Verb + more and more + adj/adv
   She is becoming more and more beautiful (Cô ấy ngày càng đẹp)
 !Cách dùng:
 - Dùng để mô tả sự ngày càng phát triển về số lượng, chất lượng.
 !b. So sánh cùng cấp độ:
 !Cấu trúc:
-- Với tính từ/trạng từ ngắn: The + adj/adv + er + Subject + Verb, the adj/adv + er + Subject + Verb
+- Với tính từ/trạng từ ngắn:
+@The + adj/adv_er + Subject + Verb, the adj/adv + er + Subject + Verb
   The harder you learn, the better score you get
-- Với tính từ/trạng từ dài : The more + Subject + Verb, the more + adj/adv, + Subject + Verb
+- Với tính từ/trạng từ dài :
+@The more + Subject + Verb, the more + adj/adv, + Subject + Verb
   The more I do execuse, the more healthy I become (Càng tập thể dục nhiều, tôi càng khoẻ)
 !Cách dùng:
 - Dùng để nói về 2 sự việc thay đổi song song, cùng cấp độ
