@@ -41,7 +41,7 @@ def open_file():
                             + '; color: ' + TITLE_COLOR + ';">'\
                             + BOLD_BEGIN + line[1:] + BOLD_END + '</span></p>' + '\n')
         elif line.startswith('`'):
-            fopen_json.write('<p>' + '<span style="font-size: ' + SECTION_FONT_SIZE \
+            fopen_json.write('<p style="text-align: justify;">' + '<span style="font-size: ' + SECTION_FONT_SIZE \
                             + '; color: ' + TITLE_COLOR + ';' \
                             + 'line-height: ' + SECTION_HEIGHT + ';">' \
                             + BOLD_BEGIN + HIGHLIGHT_BEGIN + line[1:] \
@@ -52,12 +52,11 @@ def open_file():
                             + BOLD_BEGIN + HIGHLIGHT_BEGIN + line[1:] \
                             + HIGHLIGHT_END + BOLD_END + '</span>')
         elif line.startswith('@'):
-            fopen_json.write('<p>' + '<span style="font-size: ' + TEXT_FONT_SIZE \
+            fopen_json.write('<br>' + '<span style="font-size: ' + SECTION_FONT_SIZE \
                             + '; color: ' + RED_COLOR + ';">' \
-                            + BOLD_BEGIN + '&nbsp;&nbsp;&nbsp;&nbsp;' + line[1:] \
-                             + BOLD_END + '</span>')
+                            + '&nbsp;&nbsp;&nbsp;&nbsp;' + line[1:]  + '</span>')
         elif line.startswith('- '):
-            check = check_character('(', line)
+            check = check_character(':', line)
             if check == -1:
                 fopen_json.write('<br>' + '<span style="font-size: ' + TEXT_FONT_SIZE \
                                 + '; color: ' + TEXT_COLOR + ';">' + BOLD_BEGIN + '&#10003;' + line[1:] + BOLD_END + '</span>')
@@ -66,6 +65,7 @@ def open_file():
                                 + '; color: ' + TEXT_COLOR + ';">' + BOLD_BEGIN + '&#10003;' + line[1:check] + BOLD_END + line[check:] + '</span>')
 
         elif line.startswith(' + '):
+            check = check_character(':', line)
             if check == -1:
                 fopen_json.write('<br>' + '<span style="font-size: ' + TEXT_FONT_SIZE \
                                 + '; color: ' + TEXT_COLOR + ';">' + '&nbsp;&nbsp;' + BOLD_BEGIN + '&#10146;' + line[2:] + BOLD_END + '</span>')
