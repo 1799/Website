@@ -8,6 +8,7 @@
 - Dùng để bỏ sung ý nghĩa, cung cấp thêm thông tin cho danh từ đã xác định đứng trước
 - Là mệnh đề không bắt buộc có vì đối tượng đã được xác định
 - Thường dùng dấu phẩy (,) hoặc dấu (-) để ngăn cách với mệnh đề chính
+---
 `2. Các dạng mệnh đề quan hệ
 !a. Kết hợp với đại từ quan hệ
 - Với Who:
@@ -40,6 +41,7 @@
 - Với When:
  + When có thể làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ
  + Thay thế từ chỉ thời gian, thời điểm
+---
 `3. Một số lưu ý khi sử dụng mệnh đề quan hệ
 - Nếu trong mệnh đề quan hệ có giới từ thì giới từ có thể đặt trước hoặc sau mệnh đề quan hệ
 - Which có thể được dùng thay thế cho cả mệnh đề phía trước
@@ -62,3 +64,4 @@
 - Rút gọn khi có cụm danh từ
  + Được dùng khi mệnh đề quan hệ có sử dụng động từ to be đi kèm với danh từ, cụm danh từ.
  + Có thể bỏ được các đại từ quan hệ và động từ to be đi cùng với chúng
+---

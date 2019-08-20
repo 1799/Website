@@ -60,10 +60,10 @@ def open_file():
             check = check_character(':', line)
             if check == -1:
                 fopen_json.write('<br>' + '<span style="font-size: ' + TEXT_FONT_SIZE \
-                                + '; color: ' + TEXT_COLOR + ';">' + BOLD_BEGIN + '&#10003;' + line[1:] + BOLD_END + '</span>')
+                                + '; color: ' + TEXT_COLOR + ';">' + BOLD_BEGIN + '>&#9989;' + line[1:] + BOLD_END + '</span>')
             else:
                 fopen_json.write('<br>' + '<span style="font-size: ' + TEXT_FONT_SIZE \
-                                + '; color: ' + TEXT_COLOR + ';">' + BOLD_BEGIN + '&#10003;' + line[1:check] + BOLD_END + line[check:] + '</span>')
+                                + '; color: ' + TEXT_COLOR + ';">' + BOLD_BEGIN + '>&#9989;' + line[1:check] + BOLD_END + line[check:] + '</span>')
 
         elif line.startswith(' + '):
             check = check_character(':', line)

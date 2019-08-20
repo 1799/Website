@@ -29,6 +29,7 @@
 #customers td, #customers th {
   border: 1px solid #ddd;
   padding: 8px;
+  color: #333300;
 }
 
 #customers tr{background-color: #f2f2f2;}

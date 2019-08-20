@@ -28,12 +28,28 @@
 ---
 `2. Đại từ sở hữu:
 - Dùng để thay thế cho tính từ sở hữu để tránh sự lặp lại không cần thiết, làm câu tối giản
-- Ngôi thứ nhất số ít: I - my - mine (Đại từ nhân xưng - tính từ sở hữu - Đại từ sở hữu)
-- Ngôi thứ hai số ít: you - your - yours
-- Ngôi thứ ba số ít: he - his - his, she - her - hers, it - its - its
-- Ngôi thứ nhất số nhiều: we - our - ours
-- Ngôi thứ hai số nhiều: you - your - yours
-- Ngôi thứ ba số nhiều: they - their - theirs
+- Các loại đại từ sở hữu:
+ + Ngôi thứ nhất số ít: I - my - mine (Đại từ nhân xưng - tính từ sở hữu - Đại từ sở hữu)
+   This is my pen (Đây là cái bút của tôi)
+   The red pen, it is mine (Cái bút màu đỏ, nó là của tôi )
+ + Ngôi thứ hai số ít: you - your - yours
+   Please give me your hand (Làm ơn đưa tay cho tôi)
+   This is my beg, where is yours? (Đây là túi xách của tôi, cái của bạn đâu?)
+ + Ngôi thứ ba số ít: he - his - his, she - her - hers, it - its - its
+   His result is so good (Kết quả của cậu ta rất tốt)
+   I'll check your exam first, then his (Tôi sẽ kiểm tra bài thi của bạn trước, sau đó là của cậu ta)
+   I know her name (Tôi biết tên cô ta)
+   I know your name and hers (Tôi biết tên của cậu và của cô ta)
+   This machine and its introductions are so good (Cái máy này và những bản hướng dẫn của nó rất tốt)
+ + Ngôi thứ nhất số nhiều: we - our - ours
+   This our classroom (Đây là phòng học của chúng tôi)
+   The yellow cat on the table is ours (Con mèo màu vàng trên cái bàn là của chúng tôi)
+ + Ngôi thứ hai số nhiều: you - your - yours
+   I apriciate your atention (Tôi đánh giá cao sự chú ý của các bạn)
+   I received the result of team 1, where is yours? (Tôi đã nhận được kết quả của đội 1, thế của các bạn đâu?)
+ + Ngôi thứ ba số nhiều: they - their - theirs
+   They don't want to give their report (Họ không muốn đưa bản báo cáo của mình)
+   This is your result, but not theirs (Đây là kết quả của các bạn chứ không phải của họ)
 ---
 `3. Đại từ phản thân:
 - Dùng làm tân ngữ của động từ nếu như chủ ngữ và tân ngữ là một
