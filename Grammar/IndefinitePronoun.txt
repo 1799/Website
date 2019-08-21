@@ -6,22 +6,48 @@
   Nobody can understand me (Không ai có thể hiểu tôi)
 - Vị trí giống như một danh từ trong câu
   Do you want anything to eat? (Bạn có muốn ăn gì không?)
-- Bảng phân chia các dùng cho every, some, any, no
-  https://www.ef.com.vn/tai-lieu-tieng-anh/ngu-phap-tieng-anh/dai-tu-khong-xac-dinh/
 ---
-`2. Cách sử dụng:
-- Làm chủ ngữ của câu
-  Running is a way to improve health (Chạy bộ là một cách để cải thiện sức khoẻ)
-- Làm tân ngữ, bổ nghĩa cho động từ chính trong câu (thường dùng với be)
-  One of important things in school is having some friends (Một trong nhữ điều quan trọng trong trường học là có một số người bạn)
-- Đứng sau giới từ
-  I'll go with you after reading this book (Tôi sẽ đi với bạn sau khi đọc xong cuốn sách này)
-- Đứng sau một số cụm động từ: give up, keep on, looking forward to, be used to,...
-  I tried to give up smoking many time (Tôi đã cố bỏ thuốc lá nhiều lần)
-- Đứng trước danh từ trong cụm danh từ để bổ nghĩa cho danh từ đó: swimming pool, running shoes,...
-  I take her to swimming pool to learn how to swim (Tôi đưa cô ấy đến bể bơi để học cách bơi)
-- Đứng sau một số cụm từ đặc biệt: can't help, can't stand, to be worth, it's no use
-  It's not worth fighting to get that prize (Thật không đáng đánh nhau để đạt được giải thưởng đó)
-- Một số động từ mà động từ đi sau nó phải thêm V_ing:
- + admid
----
+`2. Các dạng đại từ không xác định thường gặp
+a. Kết hợp với every:
+- Everyone/everybody: mọi người
+  Everyone knows you (Mọi người biết bạn)
+- Everything: mọi thứ
+  Everything is becoming harder and harder (Mọi thứ đang trở nên ngày càng khó khăn)
+- Everywhere: mọi nơi
+  You can go everywhere with your brother
+b. Kết hợp với some
+- Someone: một số người
+  You need to talk with someone to find solution (Bạn cần phải nói chuyện với một số người để tìm ra giải pháp)
+- Something: một số/một vài thứ
+  I need something to eat (Tôi cần vài thứ để ăn)
+- Somewhere: một vài nơi
+  She should go somewhere to consider about that decision (Cô ấy nên đi vài nơi để cân nhắc về quyết định đó)
+c. Kết hợp với any
+- Anyone: bất kỳ ai
+  I won't tell your story with anyone
+- Anything: bất kỳ thứ gì
+  Do you have anything to eat? (bạn có thứ gì để ăn không)
+- Anywhere: bất kỳ đâu
+  You can go anywhere if you want
+d: Kết hợp với no
+- No one/No body: không ai
+  No body can understand me (Không ai có thể hiểu tôi)
+- Nothing: không gì cả
+  Nothing to do now (Không có gì để làm bây giờ cả)
+- Nowhere: không đâu
+  Nowhere you can find peace than your home (Không đâu bạn có thể tìm thấy sự bình yên như nhà mình)
+e. Một số từ kết hợp khác:
+- Every (mọi): everything, everywhere, everyone,...
+  You can take everything (Bạn có thể lấy mọi thứ)
+- Each (mỗi): each person, each day,...
+  I drink 2 cups of milk each day (Tôi uống 2 cốc sữa mỗi ngày)
+- All (tất cả)
+  That is all I have (Đó là tất cả những gì tôi có)
+- Both (cả 2)
+  The red one and the blue one, you can take both (Cái màu đỏ và cái màu xanh, bạn có thể lấy cả 2)
+- Another (Một ai khác, một thứ khác)
+  I have another key to open that door (Tôi có một cái chìa khoá khác để mở cánh cửa đó)
+- The other (Cái kia)
+  There are 2 cakes, the left one is mine, the other is yours
+- Others (nhữ cái khác)
+  Some students like sport, others don’t
