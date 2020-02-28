@@ -8,35 +8,35 @@
   Do you want anything to eat? (Bạn có muốn ăn gì không?)
 ---
 `2. Các dạng đại từ không xác định thường gặp
-a. Kết hợp với every:
+!a. Kết hợp với every:
 - Everyone/everybody: mọi người
   Everyone knows you (Mọi người biết bạn)
 - Everything: mọi thứ
   Everything is becoming harder and harder (Mọi thứ đang trở nên ngày càng khó khăn)
 - Everywhere: mọi nơi
   You can go everywhere with your brother
-b. Kết hợp với some
+!b. Kết hợp với some
 - Someone: một số người
   You need to talk with someone to find solution (Bạn cần phải nói chuyện với một số người để tìm ra giải pháp)
 - Something: một số/một vài thứ
   I need something to eat (Tôi cần vài thứ để ăn)
 - Somewhere: một vài nơi
   She should go somewhere to consider about that decision (Cô ấy nên đi vài nơi để cân nhắc về quyết định đó)
-c. Kết hợp với any
+!c. Kết hợp với any
 - Anyone: bất kỳ ai
   I won't tell your story with anyone
 - Anything: bất kỳ thứ gì
   Do you have anything to eat? (bạn có thứ gì để ăn không)
 - Anywhere: bất kỳ đâu
   You can go anywhere if you want
-d: Kết hợp với no
+!d. Kết hợp với no
 - No one/No body: không ai
   No body can understand me (Không ai có thể hiểu tôi)
 - Nothing: không gì cả
   Nothing to do now (Không có gì để làm bây giờ cả)
 - Nowhere: không đâu
   Nowhere you can find peace than your home (Không đâu bạn có thể tìm thấy sự bình yên như nhà mình)
-e. Một số từ kết hợp khác:
+!e. Một số từ kết hợp khác:
 - Every (mọi): everything, everywhere, everyone,...
   You can take everything (Bạn có thể lấy mọi thứ)
 - Each (mỗi): each person, each day,...
@@ -51,3 +51,4 @@ e. Một số từ kết hợp khác:
   There are 2 cakes, the left one is mine, the other is yours
 - Others (nhữ cái khác)
   Some students like sport, others don’t
+---

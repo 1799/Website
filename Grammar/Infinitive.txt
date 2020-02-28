@@ -1,5 +1,5 @@
 ~Động từ nguyên mẫu (Verb Infinitive)
-`1. Động từ nguyên mẫu không To:
+`1. Động từ nguyên mẫu có "to":
 - Thường biểu thị mục tiêu hoặc dự định của hành động
   I want to go to library to borrow some books (Tôi muốn tới thư viện để mượn một số cuốn sách)
 - Có thể đứng đầu câu để làm chủ ngữ
@@ -9,19 +9,13 @@
 - Thường đứng sau tính từ để biểu thị một hành động cụ thể
   It is important to prepare before the exam (Rất là quan trọng khi chuẩn bị cho kỳ kiểm tra)
 ---
-`2. Vị trí và các sử dụng danh động từ trong câu
-- Làm chủ ngữ của câu
-  Running is a way to improve health (Chạy bộ là một cách để cải thiện sức khoẻ)
-- Làm tân ngữ, bổ nghĩa cho động từ chính trong câu (thường dùng với be)
-  One of important things in school is having some friends (Một trong nhữ điều quan trọng trong trường học là có một số người bạn)
-- Đứng sau giới từ
-  I'll go with you after reading this book (Tôi sẽ đi với bạn sau khi đọc xong cuốn sách này)
-- Đứng sau một số cụm động từ: give up, keep on, looking forward to, be used to,...
-  I tried to give up smoking many time (Tôi đã cố bỏ thuốc lá nhiều lần)
-- Đứng trước danh từ trong cụm danh từ để bổ nghĩa cho danh từ đó: swimming pool, running shoes,...
-  I take her to swimming pool to learn how to swim (Tôi đưa cô ấy đến bể bơi để học cách bơi)
-- Đứng sau một số cụm từ đặc biệt: can't help, can't stand, to be worth, it's no use
-  It's not worth fighting to get that prize (Thật không đáng đánh nhau để đạt được giải thưởng đó)
-- Một số động từ mà động từ đi sau nó phải thêm V_ing:
- + admid
+`2. Động từ nguyên mẫu không "to":
+- Đứng sau động từ khiếm khuyết: can, could, will,...
+  You can do it later. (Bạn có thể làm cái đó sau).
+- Đứng sau các động từ nhận thức, đi kèm cùng bổ ngữ
+  I saw him drink beer yesterday. (Tôi đã trông thấy anh ta uống bia ngày hôm qua)
+- Đứng sau động từ "make", "let"
+  Let's go shopping (Chúng ta đi mua sắm nhé)
+- Đứng sau một số cụm từ như: had better, would rather, why, ...
+  We had better bring some drinks. (Chúng tôi có lẽ đã nên mang theo một ít đồ uống)
 ---

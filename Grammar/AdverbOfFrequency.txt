@@ -1,8 +1,9 @@
 ~Trạng từ chỉ tần suất
-1. Định nghĩa:
+`1. Định nghĩa:
 - Dùng để diễn tả mức độ thường xuyên của một hành động
 - Thường được dùng để trả lời câu hỏi How often...?
-2. Các từ chỉ tần suất thường dùng:
+---
+`2. Các từ chỉ tần suất thường dùng:
 - Always: luôn luôn
   I always go to school on time (Tôi luôn đi học đúng giờ)
 - Usually: thường xuyên
@@ -19,7 +20,8 @@
   He rarely talk about childhood (Cậu ấy hiếm khi nói chuyện về tuổi thơ)
 - Never: không bao giờ
   I never get up over 9 o'clock (Tôi không bao giờ thức dậy quá 9 giờ sáng)
-3. Vị trí của trạng từ chỉ tần suất:
+---
+`3. Vị trí của trạng từ chỉ tần suất:
 - Đứng sau động từ to be:
   He is rarely late at school (Cậu ta hiếm khi muộn học)
 - Đứng trước động từ thường:
@@ -28,4 +30,4 @@
   I have never seen this film before (Tôi chưa bao giờ xem bộ phim này trước đây)
 - Có thể đứng đầu câu hoặc cuối câu với ý nghĩa nhấn mạnh
   Sometimes I drink beer alone (Thỉnh thoảng tôi uống bia một mình)
-   
+---
